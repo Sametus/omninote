@@ -1,0 +1,5 @@
+{
+  "name": "OmniNote - Cross-Platform Smooth Inking",
+  "description": "A high-performance, synchronized note-taking and drawing application designed for S-Pen on tablets and keyboard/mouse on Windows. Features real-time canvas sync and AI-powered note enhancements.",
+  "requestFramePermissions": []
+}

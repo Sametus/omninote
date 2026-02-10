@@ -1,0 +1,16 @@
+
+{
+  "short_name": "OmniNote",
+  "name": "OmniNote - Professional Inking",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/588/588395.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#020617",
+  "background_color": "#ffffff"
+}
